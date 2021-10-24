@@ -1,0 +1,19 @@
+.is-centered{
+    justify-content: center;
+}
+
+.intro-text{
+    font-size: x-large;
+}
+
+body { 
+    background-color: #282828;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:256px;
+    height: 256px;
+}
